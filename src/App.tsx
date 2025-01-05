@@ -4,10 +4,10 @@ import { MantineProvider } from '@mantine/core';
 import { Router } from './Router';
 import { theme } from './theme';
 
-export default function App() {
+export default const App = () => {
   return (
     <MantineProvider theme={theme}>
       <Router />
     </MantineProvider>
   );
-}
+};
