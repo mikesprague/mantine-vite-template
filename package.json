@@ -30,7 +30,7 @@
   "devDependencies": {
     "@eslint/js": "9.22.0",
     "@ianvs/prettier-plugin-sort-imports": "4.4.1",
-    "@storybook/react": "8.6.4",
+    "@storybook/react": "8.6.6",
     "@storybook/react-vite": "8.6.6",
     "@testing-library/dom": "10.4.0",
     "@testing-library/jest-dom": "6.6.3",
