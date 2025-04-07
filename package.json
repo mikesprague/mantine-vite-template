@@ -28,7 +28,7 @@
     "react-router-dom": "7.5.0"
   },
   "devDependencies": {
-    "@eslint/js": "9.23.0",
+    "@eslint/js": "9.24.0",
     "@ianvs/prettier-plugin-sort-imports": "4.4.1",
     "@storybook/react": "8.6.12",
     "@storybook/react-vite": "8.6.12",
