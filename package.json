@@ -39,7 +39,7 @@
     "@types/node": "22.15.30",
     "@types/react": "19.1.6",
     "@types/react-dom": "19.1.6",
-    "@vitejs/plugin-react": "4.5.1",
+    "@vitejs/plugin-react": "4.5.2",
     "cz-git": "1.11.1",
     "eslint": "9.28.0",
     "eslint-config-mantine": "4.0.3",
