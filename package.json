@@ -40,7 +40,7 @@
     "@types/react": "19.1.8",
     "@types/react-dom": "19.1.6",
     "@vitejs/plugin-react": "4.5.2",
-    "cz-git": "1.11.1",
+    "cz-git": "1.11.2",
     "eslint": "9.28.0",
     "eslint-config-mantine": "4.0.3",
     "eslint-plugin-jsx-a11y": "6.10.2",
