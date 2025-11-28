@@ -54,7 +54,7 @@
     "prop-types": "15.8.1",
     "storybook": "10.1.0",
     "storybook-dark-mode": "4.0.2",
-    "stylelint": "16.26.0",
+    "stylelint": "16.26.1",
     "stylelint-config-standard-scss": "16.0.0",
     "typescript": "5.9.3",
     "typescript-eslint": "8.48.0",
