@@ -55,7 +55,7 @@
     "postcss": "8.5.9",
     "postcss-preset-mantine": "1.18.0",
     "postcss-simple-vars": "7.0.1",
-    "prettier": "3.8.1",
+    "prettier": "3.8.2",
     "prop-types": "15.8.1",
     "storybook": "^10.2.14",
     "storybook-dark-mode": "5.0.0",
